@@ -1,0 +1,6 @@
+{
+  "name": "Gestor Financeiro: Contas a Pagar",
+  "description": "Um sistema intuitivo para gerenciar contas a pagar, com acompanhamento de status, datas de vencimento e resumos financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
